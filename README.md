@@ -1,21 +1,15 @@
 <h2> Hi there, I'm Hugo Sablot 👋</h2>
 
-<!--
-**HugoSbl/HugoSbl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 <h3> I'm a Web Developer and a tech fanatic. </h3>
+
+<br><br>
+
+<div markdown>
+
+---
+
+</div>
 
 <h3>🔭 - I build my apps with those langages, frameworks and library : <br></h3>
 
@@ -74,4 +68,22 @@ Here are some ideas to get you started:
 </a>
 <a alt="NextJs" href="https://nextjs.org/">
   <img align="left" height="50px" src="https://user-images.githubusercontent.com/115088599/206838126-17257d57-8c31-4e31-a152-a0e6305d443f.png"></img>
+</a>
+
+<br><br>
+
+<div markdown>
+
+---
+
+</div>
+<br><br>
+
+<h4>You can connect with me on : </h4>
+
+<a alt="LinkedIn" href="https://www.linkedin.com/in/hugo-sablot/">
+<img align="left" src="https://img.shields.io/badge/-Hugo Sablot-0072b1?style=flat&logo=Linkedin&logoColor=white" />
+</a>
+<a alt="email adress" href="mailto:hugo.sablot@gmail.com">
+<img align="left" src="https://img.shields.io/badge/-hugo.sablot@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white" />
 </a>
